@@ -1,0 +1,20 @@
+- récupérer les détails de la dernière erreur rencontrée
+
+x uploader un fichier
+- télécharger
+
+x- définir un élément courant (que ce soit un répertoire ou un fichier)
+
+x supprimer l'élément courant (il doit être possible de supprimer un répertoire vide)
+x renommer l'élément courant
+x déplacer l'élément courant
+x vider le répertoire
+x créer un répertoire
+
+x- récupérer le contenu
+x- changer le contenu
+x- ajouter du contenu
+
+x récupérer tous les détails de l'élément courant dans un array
+x récupérer la liste des éléments contenus dans le dossier (non récursive)
+x récupérer l'arborescence du dossier de manière récursive
